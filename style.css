@@ -34,6 +34,5 @@ p1
   {
   border: 10px solid transparent;
   padding: 15px;
-  border-image: "Border.png";
-    
+  border-image: "Border.png" 20% round;
   }
