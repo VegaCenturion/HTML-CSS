@@ -29,3 +29,11 @@ p1
   text-align: center;
   font-family: Good Times;
   }
+
+  #borderimg 
+  {
+  border: 10px solid transparent;
+  padding: 15px;
+  border-image: "Border.png";
+    
+  }
